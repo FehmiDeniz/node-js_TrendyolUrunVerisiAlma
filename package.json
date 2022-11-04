@@ -1,0 +1,17 @@
+{
+  "name": "bitirmedeneme",
+  "version": "1.0.0",
+  "description": "node js deneme",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "fdb",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^10.4.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
